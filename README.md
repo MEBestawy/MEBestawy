@@ -20,6 +20,8 @@ With a knack for problem-solving and a passion for innovation, I'm eager to take
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="C++" width="40" height="40"/> </a>
+<a href="https://www.php.net/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="Php" width="60" height="40"/> </a>
 
 
 

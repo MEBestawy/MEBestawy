@@ -32,8 +32,8 @@ With a knack for problem-solving and a passion for innovation, I'm eager to take
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://sass-lang.com/" target="_blank"> 
-    <img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" alt="Sass" width="40" height="40"/> </a>
+<a href="https://sass-lang.com" target="_blank"> 
+    <img src="https://sass-lang.com/assets/img/logos/logo.svg" alt="Sass" width="40" height="40"/> </a>
 <a href="https://styled-components.com/" target="_blank"> 
     <img src="https://styled-components.com/nav-logo.png" alt="Styled Components" width="130" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank"> 

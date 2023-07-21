@@ -75,6 +75,14 @@ With a knack for problem-solving and a passion for innovation, I'm eager to take
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://docs.soliditylang.org/en/v0.8.13/" target="_blank"> 
     <img src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" alt="Solidity" width="40" height="40"/> </a>
+<a href="https://redis.com/" target="_blank"> 
+    <img src="https://redis.com/wp-content/themes/wpx/assets/images/logo-redis.svg" alt="Redis" width="80" height="40"/> </a>
+<a href="https://cassandra.apache.org/_/index.html" target="_blank"> 
+    <img src="https://cassandra.apache.org/assets/img/logo-white.svg" alt="Cassandra DB" width="115" height="40"/> </a>
+
+
+
+    
 
 
 
